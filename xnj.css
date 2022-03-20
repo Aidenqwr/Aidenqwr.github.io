@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+     padding: 0;
+     font-family: 'Caveat', cursive;
+     font-family: 'Inspiration', cursive;
+     font-size: 3em;
+     background-color: rgb(119, 137, 138);
+}
+header {
+    background-color: cornsilk;
+    color: #fff;
+    display: flex;
+}
+.nav-ul {
+    display: flex;
+    list-style: none;
+    text-align: center;
+    padding: 0 20px;
+}
+.nav-li a {
+    color: black;
+    text-decoration: none;
+    padding: 0 20px;
+}
+.main {
+    width: 70vw;
+    margin: 0 auto;
+}
